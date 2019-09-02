@@ -1,0 +1,15 @@
+0:apple:1
+1:banana:2
+2:carrot:3
+3:empty:0
+4:grapefruit:5
+5:kiwi:6
+6:lemon:7
+7:lime:8
+8:mushrooms:9
+9:paprika:10
+10:peach:11
+11:saturn_peach:12
+12:tomato:70
+13:tomato2:74
+14:tomato3:76
